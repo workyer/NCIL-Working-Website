@@ -2,8 +2,7 @@
 
 # site properties and page defaults
 title: NCIL
-description: The NeuroCognitive Imaging Lab researches neuroplasticity and language to improve quality of life through better diagnosis, treatment, and language learning.
-logo: images/logo.svg
+description: The NeuroCognitive Imaging Lab
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /NCIL-Working-Website
