@@ -1,18 +1,12 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
+name: Aaron Newman
+image: images/Aaron.jpg
+description: Lab Director
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - A. Newman
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email: Aaron.Newman@dal.ca
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Aaron is a full Professor in Psychology, Psychiatry, Surgery, and Pediatrics at Dalhousie University. He is a member of the Brain Repair Centre, and is on the Scientific Staff of the QEII Hospital and the IWK Health Centre.
