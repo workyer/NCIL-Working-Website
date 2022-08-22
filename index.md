@@ -4,38 +4,27 @@ title: Home
 
 # The NeuroCognitive Imaging Lab researches neuroplasticity and language to improve quality of life through better diagnosis, treatment, and language learning.
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The NeuroCognitive Imaging Lab at Dalhousie University is devoted to improving quality of life through brain research. The ultimate goal of the lab is to help people live healthier, happier, and more productive lives. To this end, our activities follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/DSC_3730-copy-2.jpg" %}
 
 {% include section.html %}
 
-# Highlights
-
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In the NeuroCognitive Imaging Lab, we study neuroplasticity. That is, how the brain’s organization can be affected by experience, and how this can be adaptive or disruptive in different situations. 
+Various research projects in the lab have considered topics such as:
+* Reading Development.
+* Second Language Learning.
+* Aphasia (an acquired language disorder).
+* Blindness and Deafness.
+* Sign Language.
+* Reading Disorders
+Due to the broad range of research that takes place in the lab, we are often searching for participants from diverse backgrounds. This ranges from elementary school children, to young adults, older adults, and individuals with different language learning experiences.
+
 
 {%
   include link.html
