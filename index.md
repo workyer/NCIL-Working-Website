@@ -14,7 +14,6 @@ The NeuroCognitive Imaging Lab at Dalhousie University is devoted to improving q
 
 {% include section.html %}
 
-{% capture text %}
 In the NeuroCognitive Imaging Lab, we study neuroplasticity. That is, how the brain’s organization can be affected by experience, and how this can be adaptive or disruptive in different situations. 
 Various research projects in the lab have considered topics such as:
 * Reading Development.
@@ -34,8 +33,6 @@ Due to the broad range of research that takes place in the lab, we are often sea
   flip=true
 %}
 {:.center}
-
-{% endcapture %}
 
 {% capture text %}
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
