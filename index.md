@@ -29,7 +29,7 @@ Due to the broad range of research that takes place in the lab, we are often sea
 {%
   include link.html
   link="research"
-  text="Find you if you or someone you know is eligible to participate in our research"
+  text="Find out if you or someone you know is eligible to participate in our research"
   icon="fas fa-arrow-right"
   flip=true
 %}
