@@ -4,7 +4,7 @@ title: Home
 
 # The NeuroCognitive Imaging Lab
 
-The NeuroCognitive Imaging Lab at Dalhousie University is devoted to improving quality of life through brain research. The ultimate goal of the lab is to help people live healthier, happier, and more productive lives. To this end, our activities follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
+The NeuroCognitive Imaging Lab (NCIL) at Dalhousie University is devoted to improving quality of life through brain research. The ultimate goal of the lab is to help people live healthier, happier, and more productive lives. To this end, our activities follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
 
 {:.center}
 
