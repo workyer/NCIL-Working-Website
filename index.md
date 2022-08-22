@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# The NeuroCognitive Imaging Lab researches neuroplasticity and language to improve quality of life through better diagnosis, treatment, and language learning.
+# The NeuroCognitive Imaging Lab
 
 The NeuroCognitive Imaging Lab at Dalhousie University is devoted to improving quality of life through brain research. The ultimate goal of the lab is to help people live healthier, happier, and more productive lives. To this end, our activities follow a cycle including basic research, active participation in clinical settings, clinical research, and knowledge translation and commercialization. 
 
@@ -14,6 +14,7 @@ The NeuroCognitive Imaging Lab at Dalhousie University is devoted to improving q
 
 {% include section.html %}
 
+## Our Research
 In the NeuroCognitive Imaging Lab, we study neuroplasticity. That is, how the brain’s organization can be affected by experience, and how this can be adaptive or disruptive in different situations. 
 Various research projects in the lab have considered topics such as:
 * Reading Development.
@@ -32,33 +33,34 @@ Due to the broad range of research that takes place in the lab, we are often sea
   icon="fas fa-arrow-right"
   flip=true
 %}
-{:.center}
-
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="research"
+  text="Find out more about the research going on at the NeuroCognitive Imaging Lab"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
-{% endcapture %}
+
+## Our Resources
+The NeuroCognitive Imaging lab makes extensive use of brain imaging technologies including:
+Functional magnetic resonance imaging (fMRI)
+Event-related brain potentials (ERP)
+Magnetoencephalography (MEG)
+As well, the lab has collaborations with other labs, individual researchers, and organizations to develop and complete innovative research objectives.
+
 
 {%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  include link.html
+  link="tools"
+  text="Find out more about the resources available in the NeuroCognitive Imaging Lab"
+  icon="fas fa-arrow-right"
   flip=true
-  text=text
 %}
+{:.center}
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Our Team
+The NeuroCognitive Imaging lab is made by a group of enthusiastic researchers interested in taking advantage of technology to pursue a variety of unique research questions. We strive to build a team of individuals with diverse interests and skill sets, including volunteers, undergraduate students, graduate and postdoctoral students, as well as other collaborators. 
 
 {%
   include link.html
@@ -68,15 +70,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
 %}
 {:.center}
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
