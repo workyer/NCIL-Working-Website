@@ -23,6 +23,7 @@ Various research projects in the lab have considered topics such as:
 * Blindness and Deafness
 * Sign Language
 * Reading Disorders
+
 Due to the broad range of research that takes place in the lab, we are often searching for participants from diverse backgrounds. This ranges from elementary school children, to young adults, older adults, and individuals with different language learning experiences.
 
 
