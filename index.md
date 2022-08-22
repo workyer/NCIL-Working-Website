@@ -60,6 +60,8 @@ As well, the lab has collaborations with other labs, individual researchers, and
 {:.center}
 
 ## Our Team
+{:.center}
+
 The NeuroCognitive Imaging lab is made by a group of enthusiastic researchers interested in taking advantage of technology to pursue a variety of unique research questions. We strive to build a team of individuals with diverse interests and skill sets, including volunteers, undergraduate students, graduate and postdoctoral students, as well as other collaborators. 
 
 {%
