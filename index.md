@@ -17,11 +17,11 @@ The NeuroCognitive Imaging Lab (NCIL) at Dalhousie University is devoted to impr
 ## Our Research
 In the NeuroCognitive Imaging Lab, we study neuroplasticity. That is, how the brain’s organization can be affected by experience, and how this can be adaptive or disruptive in different situations. 
 Various research projects in the lab have considered topics such as:
-* Reading Development.
-* Second Language Learning.
-* Aphasia (an acquired language disorder).
-* Blindness and Deafness.
-* Sign Language.
+* Reading Development
+* Second Language Learning
+* Aphasia (an acquired language disorder)
+* Blindness and Deafness
+* Sign Language
 * Reading Disorders
 Due to the broad range of research that takes place in the lab, we are often searching for participants from diverse backgrounds. This ranges from elementary school children, to young adults, older adults, and individuals with different language learning experiences.
 
