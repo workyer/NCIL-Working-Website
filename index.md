@@ -29,20 +29,13 @@ Due to the broad range of research that takes place in the lab, we are often sea
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Find you if you or someone you know is eligible to participate in our research"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+{% endcapture %}
 
 {% capture text %}
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
