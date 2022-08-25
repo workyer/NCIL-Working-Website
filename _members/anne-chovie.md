@@ -1,17 +1,11 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
+name: Francesco Usai
+image: images/FU_Bio_Pic.jpg
+description: PhD Student
+role: grad
 aliases:
-  - A. Chovie
-  - A Chovie
-links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  - F. Usai
+  - F Usai
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+I am a Biomedical Engineer by training, now pursuing my doctoral studies in Psychology and Neuroscience. Here at NCIL I work at the interface between these fields: on the one hand my thesis work is centred around developing and testing software that can make best available treatments for speech and language more accessible to people with aphasia; on the other hand, working with a clinical population offers me a wide and privileged window onto the study of cognition, a field that has fascinated me since my early days as a university student. 
