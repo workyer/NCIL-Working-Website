@@ -2,7 +2,7 @@
 name: Laura Elliott
 image: images/LE.jpg
 description: Masters Student
-role: grad
+role: phd
 aliases:
   - L. Elliott
 links:
