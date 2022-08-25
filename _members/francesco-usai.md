@@ -2,7 +2,7 @@
 name: Francesco Usai
 image: images/FU_Bio_Pic.JPG
 description: PhD Student
-role: grad
+role: phd
 aliases:
   - F. Usai
   - F Usai
