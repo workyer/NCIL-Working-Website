@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Publications
 nav:
-  order: 1
+  order: 3
   tooltip: Published works
 ---
 
