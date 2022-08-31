@@ -9,4 +9,5 @@ aliases:
   - S. Léger
 links:
   email: simon.leger.66@gmail.com
+  twitter: https://twitter.com/_Simoto
 ---
