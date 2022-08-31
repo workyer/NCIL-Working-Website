@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1111/ejn.14542
+  title: "A sinister subject: Quantifying handedness\u2010based recruitment biases\
+    \ in current neuroimaging research"
+  authors:
+  - Lyam M. Bailey
+  - Laura E. McMillan
+  - Aaron J. Newman
+  publisher: European Journal of Neuroscience
+  date: '2019-04-03'
+  link: https://doi.org/gm9mpx
+  image: null
+  _cache: aa2c952440de09d25de9a4cc16bae6cd9d07f4273a7edf2730f06713dd057531
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
