@@ -9,13 +9,13 @@
   publisher: Computational and Structural Biotechnology Journal
   date: '2020-06-02'
   link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: null
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: 371e391cc663116136dc43f4c93ebdc2998f52a3abd67c7add918c3b9f4f98d9
+  _cache: f69e24a6d9b003554750d53d9d3cd2927fa7e099934490a75e19a946d66eefd8
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -29,7 +29,6 @@
   publisher: PLOS Computational Biology
   date: '2019-06-24'
   link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   repo: greenelab/meta-review
   extra-links:
   - type: manubot
@@ -38,7 +37,7 @@
     link: https://github.com/greenelab/meta-review
   - type: website
     link: http://manubot.org/
-  _cache: 9b4d326347b4c43474de520edff579266c3c490e1baf4a2074ea151d6c90e318
+  _cache: 10fc50f849da75bd15e2f489bb998809e81af2f00d50fff402ce6443543dad63
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
