@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 Great people doing amazing work is what makes NCIL. Here’s who we are:
+{:.center}
 
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
