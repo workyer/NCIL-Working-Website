@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Psychology & Neuroscience(), at  [Dalhousie University]().
+We are located on the 2nd floor of the [Life Sciences Centre]().
 
 {%
   include link.html
@@ -23,9 +23,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(902) 494-1911"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-902-494-1911"
   style="button"
 %}
 {%
@@ -43,8 +43,8 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
+1355 Oxford St.  
+Halifax, NS B3H 4R2  
 Canada
 {:.center}
 
