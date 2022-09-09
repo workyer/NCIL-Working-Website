@@ -1,7 +1,7 @@
 ---
 name: Lyam Bailey
 image: images/Aaron.jpg
-description: PhD Candidate 
+description: PhD Student
 role: phd
 aliases:
   - L.Bailey
