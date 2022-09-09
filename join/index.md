@@ -17,7 +17,7 @@ We generally ask all volunteers to make a **minimum 3 hour/week commitment** to 
 
 As well, **you should try to attend weekly lab meetings** so we get to know your face, and you can learn about the many projects going on in the lab (you'll be put on the lab email list to receive announcements about the lab meetings). Normally after having completed the one term of "casual" volunteering, people who want to stay on in the lab will be assigned to a particular project depending on their interests and need for people on active projects in the lab. 
 
-For more information on joining the lab as a volunteer, see…
+For more information on joining the lab as a volunteer, see… 
 
 ## Honours Theses
 If you are interested in doing an honours thesis in NCIL, please note that **Dr. Newman will only take on honours students who have completed PSYO/NESC 3100/3101 (Independent Research) under his supervision, with a grade of A- or better**. An honours thesis in cognitive neuroscience is a significant undertaking, and the independent research project ensures that students go into honours with proper training and expectations.
