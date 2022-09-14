@@ -1,6 +1,6 @@
 ---
 name: Madison Greek
-image: images/FU_Bio_Pic.JPG
+image: images/Madison Greek Photo.JPG
 description: Undergraduate Honours Student
 role: ug
 aliases:
