@@ -1,6 +1,6 @@
 ---
 name: Julia Oehlmann
-image: images/Julia Oehlmann Photo.jpg
+image: images/Julia.png
 description: Honours Student
 role: ug
 aliases:
