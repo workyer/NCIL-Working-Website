@@ -1,6 +1,6 @@
 ---
 name: Lyam Bailey
-image: images/aarbw.jpg
+image: images/generic_user_brain.jpg
 description: PhD Student
 role: phd
 aliases:
