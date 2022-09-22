@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fnins.2022.922960
+  title: Do emotions influence safe browsing? Toward an electroencephalography marker
+    of affective responses to cybersecurity notifications
+  authors:
+  - Colin D. Conrad
+  - Jasmine R. Aziz
+  - Jonathon M. Henneberry
+  - Aaron J. Newman
+  publisher: Frontiers in Neuroscience
+  date: '2022-08-14'
+  link: https://doi.org/gqvnqg
+  image: null
+  _cache: 9d44ad782c847af57b792c6cae39848b47f335e7751705aadb6d239f240cb2cc
 - id: doi:10.1111/ejn.14542
   title: "A sinister subject: Quantifying handedness\u2010based recruitment biases\
     \ in current neuroimaging research"
