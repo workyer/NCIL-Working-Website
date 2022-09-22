@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:org/10.21203/rs.3.rs-1510675/v1
+  title: 'The influence of skin-to-skin contact on Cortical Activity during Painful
+    procedures in preterm infants in the neonatal intensive care unit (iCAP mini):
+    Study protocol for a randomized control trial.'
+  authors:
+  - Marsha Campbell-Yeo
+  - Britney Benoit
+  - Aaron Newman
+  - Celeste Johnson
+  - Tim Bardouille
+  - Bonnie Stevens
+  - Arlene Jiang
+  publisher: In Review
+  date: '2022-04-28'
+  link: https://doi.org/org/10.21203/rs.3.rs-1510675/v1
+  image: null
+  _cache: 2ee86b4e2f421d8e3c79172c98c531577ccae8817a1b2a4268475803627b56b3
 - id: doi:10.3389/fnins.2022.922960
   title: Do emotions influence safe browsing? Toward an electroencephalography marker
     of affective responses to cybersecurity notifications
