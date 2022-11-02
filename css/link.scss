@@ -8,7 +8,6 @@
 a {
   color: $accent;
   transition: color $fast;
-  overflow-wrap: break-word;
 }
 
 a:hover {
@@ -44,7 +43,7 @@ a:hover {
     min-height: 40px;
     margin: 10px;
     padding: 5px 10px;
-    border-radius: $rounded;
+    border-radius: 5px;
     background: $accent;
     color: $white;
 
