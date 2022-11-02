@@ -1,6 +1,6 @@
 ---
 name: Juliana Christiani
-image: images/Juliana.jpg
+image: images/Juliana.jpeg
 description: Honours Student
 role: undergrad
 aliases:
