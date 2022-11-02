@@ -17,7 +17,7 @@
   date: '2022-04-28'
   link: https://doi.org/org/10.21203/rs.3.rs-1510675/v1
   image: null
-  _cache: 2ee86b4e2f421d8e3c79172c98c531577ccae8817a1b2a4268475803627b56b3
+  _cache: 447775bebcee2186f625dd0f831fa054278dd3457d6d652de8e735b964e297ba
 - id: doi:10.3389/fnins.2022.922960
   title: Do emotions influence safe browsing? Toward an electroencephalography marker
     of affective responses to cybersecurity notifications
@@ -30,7 +30,7 @@
   date: '2022-08-14'
   link: https://doi.org/gqvnqg
   image: null
-  _cache: 9d44ad782c847af57b792c6cae39848b47f335e7751705aadb6d239f240cb2cc
+  _cache: f8842d9fb5fc9772879a571996899b95164ad989b3eb75d4fdccbb03a2a22f0f
 - id: doi:10.1111/ejn.14542
   title: "A sinister subject: Quantifying handedness\u2010based recruitment biases\
     \ in current neuroimaging research"
@@ -42,7 +42,7 @@
   date: '2019-04-03'
   link: https://doi.org/gm9mpx
   image: null
-  _cache: aa2c952440de09d25de9a4cc16bae6cd9d07f4273a7edf2730f06713dd057531
+  _cache: 915928b0707d75b930580a46e43cc95ec1b6f92052bcbe6bd06c038f5ef51d57
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
@@ -57,7 +57,7 @@
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: f69e24a6d9b003554750d53d9d3cd2927fa7e099934490a75e19a946d66eefd8
+  _cache: 43220979bce06618993c3719272694a060b5f5964e1f03b0ed126a0a17506e07
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -79,7 +79,7 @@
     link: https://github.com/greenelab/meta-review
   - type: website
     link: http://manubot.org/
-  _cache: 10fc50f849da75bd15e2f489bb998809e81af2f00d50fff402ce6443543dad63
+  _cache: 45b31ec27bef8abd4c5ec39c5f707c14f183afab9d6aeb277ef8174eb226497b
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
@@ -105,4 +105,4 @@
   - type: source
     link: https://github.com/greenelab/scihub
     text: Analyses source
-  _cache: 1510c88d1d7cdb29f090da47b0903118fa57243de166541c8ff31c614fc05604
+  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
