@@ -2,7 +2,7 @@
 name: Daniel Godfrey
 image: images/DGBioPic.jpg
 description: Master’s student
-role: phd
+role: masters
 aliases:
   - D. Godfrey
 links:
