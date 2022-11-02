@@ -1,6 +1,6 @@
 ---
 name: Aaron Newman
-image: images/Aaron.jpg
+image: images/Aaron.jpeg
 description: Lab Director
 role: pi
 aliases:
