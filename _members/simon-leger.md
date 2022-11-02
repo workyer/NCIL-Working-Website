@@ -1,6 +1,6 @@
 ---
 name: Simon Leger
-image: images/SL.jpeg
+image: images/SL.jpg
 description: Honours Student
 role: undergrad
 group: alum
