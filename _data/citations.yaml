@@ -1,6 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:org/10.21203/rs.3.rs-1510675/v1
+  title: 'The influence of skin-to-skin contact on Cortical Activity during Painful
+    procedures in preterm infants in the neonatal intensive care unit (iCAP mini):
+    Study protocol for a randomized control trial.'
+  authors:
+  - Marsha Campbell-Yeo
+  - Britney Benoit
+  - Aaron Newman
+  - Celeste Johnson
+  - Tim Bardouille
+  - Bonnie Stevens
+  - Arlene Jiang
+  publisher: In Review
+  date: '2022-04-28'
+  link: https://doi.org/org/10.21203/rs.3.rs-1510675/v1
+  image: null
+  _cache: 447775bebcee2186f625dd0f831fa054278dd3457d6d652de8e735b964e297ba
+- id: doi:10.3389/fnins.2022.922960
+  title: Do emotions influence safe browsing? Toward an electroencephalography marker
+    of affective responses to cybersecurity notifications
+  authors:
+  - Colin D. Conrad
+  - Jasmine R. Aziz
+  - Jonathon M. Henneberry
+  - Aaron J. Newman
+  publisher: Frontiers in Neuroscience
+  date: '2022-08-14'
+  link: https://doi.org/gqvnqg
+  image: null
+  _cache: f8842d9fb5fc9772879a571996899b95164ad989b3eb75d4fdccbb03a2a22f0f
+- id: doi:10.1111/ejn.14542
+  title: "A sinister subject: Quantifying handedness\u2010based recruitment biases\
+    \ in current neuroimaging research"
+  authors:
+  - Lyam M. Bailey
+  - Laura E. McMillan
+  - Aaron J. Newman
+  publisher: European Journal of Neuroscience
+  date: '2019-04-03'
+  link: https://doi.org/gm9mpx
+  image: null
+  _cache: 915928b0707d75b930580a46e43cc95ec1b6f92052bcbe6bd06c038f5ef51d57
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
