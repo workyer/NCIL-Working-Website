@@ -1,6 +1,6 @@
 ---
 name: Cindy Hamon-Hill
-image: images/Cindy.jpg
+image: images/Cindy.jpeg
 description: Lab Manager
 role: pi
 aliases:
