@@ -1,6 +1,6 @@
 ---
 name: Lyam Bailey
-image: images/Lyam2.jpg
+image: images/Lyam3_square.jpg
 description: PhD Student
 role: phd
 aliases:
