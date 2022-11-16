@@ -1,6 +1,6 @@
 ---
 name: Lyam Bailey
-image: images/generic_user_brain.jpg
+image: Lyam.jpg
 description: PhD Student
 role: phd
 aliases:
@@ -9,4 +9,4 @@ links:
   email: lyam.bailey@dal.ca
 ---
 
-Aaron is a full Professor in Psychology, Psychiatry, Surgery, and Pediatrics at Dalhousie University. He is a member of the Brain Repair Centre, and is on the Scientific Staff of the QEII Hospital and the IWK Health Centre.
+Lyam is an international PhD student from Wales, UK. He completed a BSc in Psychology at Bangor University, before joining NCIL and completing an MSc in Psychology and Neuroscience. Lyam's current work primarily involves using fMRI and multivariate analyses to investigate how human speech affects memory formation and retrieval.
